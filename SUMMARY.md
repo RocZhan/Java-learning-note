@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Java Learning note](README.md)
+* [剑指offer](jian-zhi-offer.md)
 
 ## Algorithm
 
